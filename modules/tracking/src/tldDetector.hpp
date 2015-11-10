@@ -43,7 +43,7 @@
 #define OPENCV_TLD_DETECTOR
 
 #include "precomp.hpp"
-#include "opencl_kernels_tracking.hpp"
+//#include "opencl_kernels_tracking.hpp"
 #include "tldEnsembleClassifier.hpp"
 #include "tldUtils.hpp"
 
